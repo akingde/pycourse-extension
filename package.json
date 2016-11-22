@@ -34,6 +34,8 @@
     "@types/node": "^6.0.40"
   },
   "dependencies": {
-    "request": "^2.74.0"
+    "request": "2.79.0",
+    "unzip": "0.1.11",
+    "mz": "2.5.0"
   }
 }
